@@ -21,7 +21,6 @@
         >
           {{ item }}
         </v-card>
-        <v-card color="yellow" class="mx-2 px-5 py-5"> + </v-card>
       </v-row>
       <v-row class="py-12">
         <v-col cols="6" class="text-right">
